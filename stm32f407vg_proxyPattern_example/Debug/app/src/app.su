@@ -1,0 +1,4 @@
+C:/Users/AtakanErtekin/Desktop/WorkSpace/STM_WorkSpace/stm32f407vg_proxyPattern_example/app/inc/app.h:57:20:SensorCTOR	24	static
+../app/src/app.c:21:10:Real_readSensor	40	static
+../app/src/app.c:43:10:Proxy_readSensor	96	static
+../app/src/app.c:72:6:MainAPP	88	static
