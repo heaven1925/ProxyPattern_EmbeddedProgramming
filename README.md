@@ -1,4 +1,4 @@
-# ProxyPattern_EmbeddedProgramming - @a.ertekin @a.ertekin @a.ertekin @a.ertekin @a.ertekin
+# ProxyPattern_EmbeddedProgramming - @a.ertekin 
 Object Oriented Programming Proxy Pattern Application Basic Adc Sensor Read 
 
 < ENG > 
