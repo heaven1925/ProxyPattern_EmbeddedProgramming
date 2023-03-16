@@ -27,3 +27,15 @@ Bu işlevler, sensörlerin farklı kanallarından verileri okumak için HAL_ADC 
 Bu fonksiyonların her biri, gerçek sensör nesnesi veya proxy sensör nesnesi üzerinde çağrılabilir.
 
 Sonuç olarak, bu kodun amacı, bir proxy tasarım kalıbı örneği oluşturmak ve gerçek sensör nesnesine erişimi kontrol etmek için bir ara yüz sağlamaktır.
+
+Örneklerde okunan 3 kanal sensor degerinin maksimum degerde oldugu varsayılarak gerceklestirilmistir.
+
+![](https://i.hizliresim.com/ajekygs.JPG)
+
+Proxy objedeki, sensor degerlerinin degisip, degismemesi istege baglidir. Gercek sensor degerleri surekli degismektedir.
+
+![](https://i.hizliresim.com/rw618dv.JPG)
+
+Fakat istege bagli istenirse proxy sensor değerleri ve proxy real sensor degerlerinin de guncel degisimi if 0 açılarak yapılabilir.
+
+
